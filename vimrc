@@ -18,3 +18,4 @@ set incsearch
 
 "==================== NERDTree
 let NERDTreeIgnore = ['\.pyc$']
+
