@@ -29,6 +29,7 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'scrooloose/nerdtree'
 Plugin 'vim-ruby/vim-ruby'
 Plugin 'scrooloose/syntastic'
+Plugin 'wookiehangover/jshint.vim'
 Plugin 'rails.vim'
 Plugin 'ervandew/supertab'
 Plugin 'majutsushi/tagbar'
