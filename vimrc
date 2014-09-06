@@ -9,6 +9,8 @@ set shiftwidth=2
 set smarttab
 set expandtab
 
+set backspace=indent,eol,start
+
 "==================== styles
 set number
 set relativenumber
