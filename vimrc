@@ -10,6 +10,7 @@ set smarttab
 set expandtab
 
 set backspace=indent,eol,start
+set list
 
 "==================== styles
 set number
