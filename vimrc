@@ -21,3 +21,6 @@ set incsearch
 "==================== NERDTree
 let NERDTreeIgnore = ['\.pyc$']
 
+"==================== CommandT
+set wildignore=*.pyc
+
